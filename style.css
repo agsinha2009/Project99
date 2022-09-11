@@ -1,0 +1,35 @@
+b{
+    color: darkblue;
+}
+body{
+   background-image: url(photo_bachground.webp);
+}
+button{
+    background-color: darkblue;
+    color: white;
+    font-size: 20px;
+}
+#label1{
+    background-color: white;
+}
+body{
+    text-align: center;
+}
+#title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    font-family:'cursive';
+}
+#camera{
+    height: 100px;
+    width: 100px;
+    border-width: 10%;
+    border-color: black;
+}
+img:hover{
+    border-radius: 140px;
+}
+img{
+    box-shadow: 0 8px 10px 0 rgba(2, 2, 2, 0.2);
+}
